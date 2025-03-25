@@ -25,7 +25,7 @@ The Multi-Agent SEO Blog Generator is a Flask-based web application designed to 
 C:.
 │   .env
 │   requirements.txt
-│
+│   README.md
 ├───backend
 │       final_blog_post.txt
 │       flask_backend.py
